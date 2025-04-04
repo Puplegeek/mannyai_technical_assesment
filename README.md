@@ -1,5 +1,4 @@
 # mannyai_technical_assesment
-
 # Forward Planning Apparel Scheduling
 
 This project simulates a simplified apparel production process with three sequential stages: **Cut → Sew → Pack**. The simulation considers multiple constraints such as machine availability, product-specific setup times, and additional delays. A Monte Carlo simulation is used to explore various scheduling permutations with the aim of minimizing overall lateness and maximizing on-time order completions.
@@ -43,7 +42,7 @@ Each order, represented by its product type, processing times, deadline, and del
 
 ## Project Structure
 
-- **Main Script (`code.py`):**
+- **Main Notebook (`version_01.ipynb`):**
   - **Data Loading:** Reads CSV data and converts required columns.
   - **Class Definitions:**  
     - `Order` for storing order attributes.
