@@ -5,6 +5,64 @@ This project simulates a simplified apparel production process with three sequen
 
 ---
 
+
+##Results
+
+i. Total orders completed on time: 20/50
+ii. Average time units late: 107.72
+iii. Summary of lateness by order:
+
+Order O001: 145 units late
+Order O002: 0 units late
+Order O003: 122 units late
+Order O004: 273 units late
+Order O005: 0 units late
+Order O006: 85 units late
+Order O007: 326 units late
+Order O008: 0 units late
+Order O009: 0 units late
+Order O010: 78 units late
+Order O011: 65 units late
+Order O012: 0 units late
+Order O013: 41 units late
+Order O014: 0 units late
+Order O015: 341 units late
+Order O016: 0 units late
+Order O017: 430 units late
+Order O018: 126 units late
+Order O019: 410 units late
+Order O020: 0 units late
+Order O021: 0 units late
+Order O022: 0 units late
+Order O023: 0 units late
+Order O024: 60 units late
+Order O025: 162 units late
+Order O026: 0 units late
+Order O027: 224 units late
+Order O028: 36 units late
+Order O029: 168 units late
+Order O030: 261 units late
+Order O031: 0 units late
+Order O032: 0 units late
+Order O033: 171 units late
+Order O034: 349 units late
+Order O035: 104 units late
+Order O036: 220 units late
+Order O037: 62 units late
+Order O038: 153 units late
+Order O039: 130 units late
+Order O040: 0 units late
+Order O041: 0 units late
+Order O042: 0 units late
+Order O043: 0 units late
+Order O044: 0 units late
+Order O045: 162 units late
+Order O046: 196 units late
+Order O047: 237 units late
+Order O048: 138 units late
+Order O049: 0 units late
+Order O050: 111 units late 
+
 ## Table of Contents
 
 1. [Overview](#overview)
