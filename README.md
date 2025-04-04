@@ -6,7 +6,7 @@ This project simulates a simplified apparel production process with three sequen
 ---
 
 
-##Results
+## Results
 
 i. Total orders completed on time: 20/50
 ii. Average time units late: 107.72
