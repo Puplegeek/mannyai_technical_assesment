@@ -60,7 +60,7 @@ Each order, represented by its product type, processing times, deadline, and del
 
 ## Detailed Tables for Functions and Variables
 
-The tables above provide a clear mapping between the code structure and its functionality. They detail the variables/parameters used in each function or class and describe the underlying logic and purpose.
+The tables below provide a clear mapping between the code structure and its functionality. They detail the variables/parameters used in each function or class and describe the underlying logic and purpose.
 
 ---
 
